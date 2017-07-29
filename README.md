@@ -5,3 +5,4 @@
 # 记录一些 Issues 博客
 - [JoeCao/JoeCao.github.io](https://github.com/JoeCao/JoeCao.github.io/issues)
 - [lifesinger/blog](https://github.com/lifesinger/blog/issues)
+- [fredshare/blog](https://github.com/fredshare/blog/issues)
